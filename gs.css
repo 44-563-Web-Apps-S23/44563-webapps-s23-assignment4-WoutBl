@@ -62,3 +62,8 @@ td {
 .TableHead {
     font-size: 24px;
 }
+
+:hover {
+    text-shadow: 2px 2px 5px hotpink;
+    border: 1px solid red;
+}
