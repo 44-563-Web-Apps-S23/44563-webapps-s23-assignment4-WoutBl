@@ -33,3 +33,32 @@
 .Judge {
     color: green;
 }
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+}
+
+.TableContainer {
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Table {
+    border: 1px solid black;
+    padding: 12px;
+
+}
+
+.TableHead {
+    font-size: 24px;
+}
